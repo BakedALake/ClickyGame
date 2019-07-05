@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "ana",
+    "image": "https://cownters.com/assets/img/portraits/ana.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "brigitte",
+    "image": "https://cownters.com/assets/img/portraits/brigitte.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "lucio",
+    "image": "https://cownters.com/assets/img/portraits/lucio.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "mercy",
+    "image": "https://cownters.com/assets/img/portraits/mercy.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "moira",
+    "image": "https://cownters.com/assets/img/portraits/moira.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "zenyatta",
+    "image": "https://cownters.com/assets/img/portraits/zenyatta.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "bastion",
+    "image": "https://cownters.com/assets/img/portraits/bastion.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "doomfist",
+    "image": "https://cownters.com/assets/img/portraits/doomfist.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "genji",
+    "image": "https://cownters.com/assets/img/portraits/genji.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "hanzo",
+    "image": "https://cownters.com/assets/img/portraits/hanzo.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "junkrat",
+    "image": "https://cownters.com/assets/img/portraits/junkrat.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "mccree",
+    "image": "https://cownters.com/assets/img/portraits/mccree.png",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "name": "mei",
+    "image": "https://cownters.com/assets/img/portraits/mei.png",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "name": "pharah",
+    "image": "https://cownters.com/assets/img/portraits/pharah.png",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "name": "reaper",
+    "image": "https://cownters.com/assets/img/portraits/reaper.png",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "name": "soldier-76",
+    "image": "https://cownters.com/assets/img/portraits/soldier-76.png",
+    "clicked": false
+  },
+  {
+    "id": 17,
+    "name": "sombra",
+    "image": "https://cownters.com/assets/img/portraits/sombra.png",
+    "clicked": false
+  },
+  {
+    "id": 18,
+    "name": "symmetra",
+    "image": "https://cownters.com/assets/img/portraits/symmetra.png",
+    "clicked": false
+  },
+  {
+    "id": 19,
+    "name": "torbjorn",
+    "image": "https://cownters.com/assets/img/portraits/torbjorn.png",
+    "clicked": false
+  },
+  {
+    "id": 20,
+    "name": "tracer",
+    "image": "https://cownters.com/assets/img/portraits/tracer.png",
+    "clicked": false
+  },
+  {
+    "id": 21,
+    "name": "widowmaker",
+    "image": "https://cownters.com/assets/img/portraits/widowmaker.png",
+    "clicked": false
+  },
+  {
+    "id": 22,
+    "name": "d-va",
+    "image": "https://cownters.com/assets/img/portraits/d-va.png",
+    "clicked": false
+  },
+  {
+    "id": 23,
+    "name": "orisa",
+    "image": "https://cownters.com/assets/img/portraits/orisa.png",
+    "clicked": false
+  },
+  {
+    "id": 24,
+    "name": "reinhardt",
+    "image": "https://cownters.com/assets/img/portraits/reinhardt.png",
+    "clicked": false
+  },
+  {
+    "id": 25,
+    "name": "roadhog",
+    "image": "https://cownters.com/assets/img/portraits/roadhog.png",
+    "clicked": false
+  },
+  {
+    "id": 26,
+    "name": "winston",
+    "image": "https://cownters.com/assets/img/portraits/winston.png",
+    "clicked": false
+  },
+  {
+    "id": 27,
+    "name": "wrecking-ball",
+    "image": "https://cownters.com/assets/img/portraits/wrecking-ball.png",
+    "clicked": false
+  },
+  {
+    "id": 28,
+    "name": "zarya",
+    "image": "https://cownters.com/assets/img/portraits/zarya.png",
+    "clicked": false
+  }
+]
