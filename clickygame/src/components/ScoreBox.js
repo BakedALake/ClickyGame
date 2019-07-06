@@ -1,10 +1,19 @@
 import React from "react";
 
-function ScoreBox() {
-  return (
-    <h1>Score box wth!</h1>
-  )
-}
+var ScoreBox = function statelessFunctionComponentClass(props){
+var score = 0;
+var topScore = 0;
+var scoreString
 
+score = (props.score);
+if (topScore < score){
+  topScore = score;
+}
+scoreString = ("Score: " + score + " | Top Score: " + topScore);
+
+  return (
+    <h1>{scoreString}</h1>
+  )
+};
 
 export default ScoreBox;

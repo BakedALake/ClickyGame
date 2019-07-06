@@ -18,6 +18,17 @@ class Container extends Component {
 
   };
 
+  handleClick = event => {
+    event.preventDefault();
+    if (this.state.clicked) {
+
+    }
+    else {
+        this.setState({ clicked: true });
+        console.log("The clicked state is : " + this.state.clicked);
+    }
+}
+
   heroSorter = () => {
     for (var i = 1; i <= 28;) {
       var ranNum = (Math.floor(Math.random() * 28) + 1);
@@ -30,6 +41,7 @@ class Container extends Component {
           name={characters[ranNum - 1].name}
           image={characters[ranNum - 1].image}
           clicked={characters[ranNum - 1].clicked}
+          handleClick={this.handleClick}
         />);
       }
     }
